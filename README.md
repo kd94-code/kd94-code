@@ -1,6 +1,6 @@
 
-# Hey, I'm kuldeep  👋
-### Software Developer · 2+ Years Experience 
+#                                                                             Hey, I'm kuldeep  👋
+###                                                                  Software Developer · 2+ Years Experience 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps;React+%7C+Next.js+%7C+Node.js+developer;Turning+ideas+into+reality+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=kd94-code&color=00d9ff&style=flat-square&label=Profile+Views" alt="profile views" />
