@@ -65,7 +65,7 @@ const kuldeep = {
 
 ## 💼 Work Experience
 
-### 🏢 Software Developer — TechVista Solutions *(Jan 2023 – Present)*
+### 🏢 Software Developer — Sprilio Tech *(Jan 2024 – Present)*
 > Varanasi, India · Full-time
 
 - 🔹 Built and maintained **3+ production-grade web applications** using React.js and Next.js
@@ -75,16 +75,6 @@ const kuldeep = {
 - 🔹 Reduced page load time by **40%** through code splitting and lazy loading
 
 ---
-
-### 🏢 Junior Frontend Developer — CodeCraft Studio *(Jun 2022 – Dec 2022)*
-> Remote · Internship → Full-time
-
-- 🔹 Built responsive UIs using React.js with pixel-perfect Figma designs
-- 🔹 Wrote unit tests with **Jest**, reducing bug rates by 25%
-- 🔹 Integrated **Google Cloud APIs** for cloud storage and authentication features
-
----
-
 ## 🏆 Featured Projects
 
 ### 🛒 ShopEase — E-Commerce Platform
@@ -164,6 +154,13 @@ Interactive analytics dashboard with role-based access control, exportable repor
 </div>
 
 ---
+<div align="center">
+
+# 🚀 Made With Passion By kuldeep
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+</div>
 
 <div align="center">
 
