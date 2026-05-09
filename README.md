@@ -120,30 +120,6 @@ Interactive analytics dashboard with role-based access control, exportable repor
 
 ---
 
-## 🎮 Mini Game — Guess the Number!
-
-> Play a quick game right in the terminal! Clone any of my repos and run this:
-
-```bash
-# Copy and run in your browser console or Node.js!
-(function() {
-  const secret = Math.floor(Math.random() * 100) + 1;
-  let attempts = 0;
-  console.log("🎮 Guess the Number! (1-100)");
-  function guess(n) {
-    attempts++;
-    if (n < secret) console.log("📉 Too low! Try higher.");
-    else if (n > secret) console.log("📈 Too high! Try lower.");
-    else console.log(`🎉 Correct! You got it in ${attempts} attempts!`);
-  }
-  window.guess = guess;
-  console.log("Type: guess(50) to start!");
-})();
-```
-
-> **How to play:** Open browser DevTools → Console tab → Paste the code → Type `guess(number)` to play!
-
----
 
 ## 📫 Connect With Me
 
